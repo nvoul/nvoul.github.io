@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan R Bishop | Voulgarakis Research Group</title>
+    <link>http://www.math.wsu.edu/math/faculty/nvoul/author/alan-r-bishop/</link>
+      <atom:link href="http://www.math.wsu.edu/math/faculty/nvoul/author/alan-r-bishop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan R Bishop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.math.wsu.edu/math/faculty/nvoul/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alan R Bishop</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/author/alan-r-bishop/</link>
+    </image>
+    
+    <item>
+      <title>Pre-melting dynamics of DNA and its relation to specific functions</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/alexandrov-2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/alexandrov-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermally Induced Coherent Vibrations in DNA</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/thermally-induced-coherent-vibrations-in-dna/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/thermally-induced-coherent-vibrations-in-dna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

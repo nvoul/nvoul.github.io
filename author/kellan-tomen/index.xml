@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kellan Tomen | Voulgarakis Research Group</title>
+    <link>http://www.math.wsu.edu/math/faculty/nvoul/author/kellan-tomen/</link>
+      <atom:link href="http://www.math.wsu.edu/math/faculty/nvoul/author/kellan-tomen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kellan Tomen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://www.math.wsu.edu/math/faculty/nvoul/author/kellan-tomen/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Kellan Tomen</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/author/kellan-tomen/</link>
+    </image>
+    
+  </channel>
+</rss>

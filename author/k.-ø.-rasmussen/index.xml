@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Ø. Rasmussen | Voulgarakis Research Group</title>
+    <link>http://www.math.wsu.edu/math/faculty/nvoul/author/k.-%C3%B8.-rasmussen/</link>
+      <atom:link href="http://www.math.wsu.edu/math/faculty/nvoul/author/k.-%C3%B8.-rasmussen/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Ø. Rasmussen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.math.wsu.edu/math/faculty/nvoul/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>K. Ø. Rasmussen</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/author/k.-%C3%B8.-rasmussen/</link>
+    </image>
+    
+    <item>
+      <title>Dendrimers as synthetic gene vectors: Cell membrane attachment</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3109902/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3109902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing the Mechanical Unzipping of DNA</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-lett-96-248101/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-lett-96-248101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequencing DNA by Dynamic Force Spectroscopy:  Limitations and Prospects</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1021-nl-0608801/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1021-nl-0608801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bubble Nucleation and Cooperativity in DNA Melting</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-lett-94-035504/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-lett-94-035504/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature-Dependent Signatures of Coherent Vibrational Openings in DNA</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1021-nl-0499084/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1021-nl-0499084/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

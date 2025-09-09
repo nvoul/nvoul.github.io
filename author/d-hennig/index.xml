@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Hennig | Voulgarakis Research Group</title>
+    <link>http://www.math.wsu.edu/math/faculty/nvoul/author/d-hennig/</link>
+      <atom:link href="http://www.math.wsu.edu/math/faculty/nvoul/author/d-hennig/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Hennig</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.math.wsu.edu/math/faculty/nvoul/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>D Hennig</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/author/d-hennig/</link>
+    </image>
+    
+    <item>
+      <title>Polaronic electron transfer in $p̆beta$-sheet protein models</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/content/publication/voulgarakis-2001/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/content/publication/voulgarakis-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

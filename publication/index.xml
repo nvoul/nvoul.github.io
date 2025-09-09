@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Voulgarakis Research Group</title>
+    <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/</link>
+      <atom:link href="http://www.math.wsu.edu/math/faculty/nvoul/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.math.wsu.edu/math/faculty/nvoul/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/</link>
+    </image>
+    
+    <item>
+      <title>Stochastic pursuit-evasion curves for foraging dynamics</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/bibtex/content/publication/toman-2022127324/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/bibtex/content/publication/toman-2022127324/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Refugee Movement Based on a Continuum Mechanics Phase-Field Approach of Porous Media</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/bibtex/content/publication/doi-10-1137-19-m-130056-x/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/bibtex/content/publication/doi-10-1137-19-m-130056-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid fluctuating hydrodynamics and kinetic Monte Carlo method for modeling chemically-powered nanoscale motion</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/selmi-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/selmi-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A stochastic reaction-diffusion model for protein aggregation on DNA</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1142-s-0129183117501029/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1142-s-0129183117501029/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two-level stochastic collocation method for semilinear elliptic equations with random coefficients</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/chen-2017195/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/chen-2017195/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluctuating hydrodynamics for ionic liquids</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/lazaridis-20171431/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/lazaridis-20171431/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of thermal fluctuations on Holstein polaron dynamics in electric field</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/voulgarakis-201715/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/voulgarakis-201715/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allostery through protein-induced DNA bubbles</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/traverso-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/traverso-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling nanoscale hydrodynamics by smoothed dissipative particle dynamics</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4921222/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4921222/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic mesoscale model of dipolar fluids via fluctuating hydrodynamics</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4900498/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4900498/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking hydrophobicity and hydrodynamics by the hybrid fluctuating hydrodynamics and molecular dynamics methodologies</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-e-88-023305/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-e-88-023305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluctuating hydrodynamics for multiscale modeling and simulation: Energy and heat transfer in molecular fluids</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4738763/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4738763/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluctuating hydrodynamics for multiscale simulation of inhomogeneous fluids: Mapping all-atom molecular dynamics to capillary waves</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3615719/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3615719/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the viscoelasticity and thermal fluctuations of fluids at the nanoscale</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1080-08927022-2010-486832/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1080-08927022-2010-486832/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging fluctuating hydrodynamics and molecular dynamics simulations of fluids</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3106717/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3106717/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dendrimers as synthetic gene vectors: Cell membrane attachment</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3109902/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3109902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the nanoscale viscoelasticity of fluids by bridging non-Markovian fluctuating hydrodynamics and molecular dynamics simulations</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3273210/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3273210/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-melting dynamics of DNA and its relation to specific functions</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/alexandrov-2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/alexandrov-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermally Induced Coherent Vibrations in DNA</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/thermally-induced-coherent-vibrations-in-dna/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/thermally-induced-coherent-vibrations-in-dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opening rates of DNA hairpins: Experiment and model</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-e-76-011909/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-e-76-011909/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing the Mechanical Unzipping of DNA</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-lett-96-248101/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-lett-96-248101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequencing DNA by Dynamic Force Spectroscopy:  Limitations and Prospects</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1021-nl-0608801/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1021-nl-0608801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bubble Nucleation and Cooperativity in DNA Melting</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-lett-94-035504/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-lett-94-035504/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational investigation of intrinsic localization in crystalline Si</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-b-69-113201/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-b-69-113201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature-Dependent Signatures of Coherent Vibrational Openings in DNA</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1021-nl-0499084/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1021-nl-0499084/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polaronic electron transfer in $p̆beta$-sheet protein models</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/content/publication/voulgarakis-2001/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/content/publication/voulgarakis-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiquanta breather model for PtCl</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/content/publication/phys-rev-b-64-020301/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/content/publication/phys-rev-b-64-020301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stationary and dynamical properties of polarons in the anharmonic Holstein model</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/content/publication/phys-rev-b-63-014302/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/content/publication/phys-rev-b-63-014302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy relaxation in discrete nonlinear lattices</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/content/publication/phys-rev-e-59-1234/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/content/publication/phys-rev-e-59-1234/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

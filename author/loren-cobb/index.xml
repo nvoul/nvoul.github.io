@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loren Cobb | Voulgarakis Research Group</title>
+    <link>http://www.math.wsu.edu/math/faculty/nvoul/author/loren-cobb/</link>
+      <atom:link href="http://www.math.wsu.edu/math/faculty/nvoul/author/loren-cobb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Loren Cobb</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.math.wsu.edu/math/faculty/nvoul/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Loren Cobb</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/author/loren-cobb/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Refugee Movement Based on a Continuum Mechanics Phase-Field Approach of Porous Media</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/bibtex/content/publication/doi-10-1137-19-m-130056-x/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/bibtex/content/publication/doi-10-1137-19-m-130056-x/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kim Ø. Rasmussen | Voulgarakis Research Group</title>
+    <link>http://www.math.wsu.edu/math/faculty/nvoul/author/kim-%C3%B8.-rasmussen/</link>
+      <atom:link href="http://www.math.wsu.edu/math/faculty/nvoul/author/kim-%C3%B8.-rasmussen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kim Ø. Rasmussen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.math.wsu.edu/math/faculty/nvoul/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kim Ø. Rasmussen</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/author/kim-%C3%B8.-rasmussen/</link>
+    </image>
+    
+    <item>
+      <title>Allostery through protein-induced DNA bubbles</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/traverso-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/traverso-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opening rates of DNA hairpins: Experiment and model</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-e-76-011909/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-e-76-011909/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Hadjisavvas | Voulgarakis Research Group</title>
+    <link>http://www.math.wsu.edu/math/faculty/nvoul/author/g.-hadjisavvas/</link>
+      <atom:link href="http://www.math.wsu.edu/math/faculty/nvoul/author/g.-hadjisavvas/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Hadjisavvas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.math.wsu.edu/math/faculty/nvoul/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Hadjisavvas</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/author/g.-hadjisavvas/</link>
+    </image>
+    
+    <item>
+      <title>Computational investigation of intrinsic localization in crystalline Si</title>
+      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-b-69-113201/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-b-69-113201/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
