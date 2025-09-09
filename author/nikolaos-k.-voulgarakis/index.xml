@@ -1,128 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nikolaos K. Voulgarakis | Voulgarakis Research Group</title>
-    <link>http://www.math.wsu.edu/math/faculty/nvoul/author/nikolaos-k.-voulgarakis/</link>
-      <atom:link href="http://www.math.wsu.edu/math/faculty/nvoul/author/nikolaos-k.-voulgarakis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nikolaos K. Voulgarakis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://www.math.wsu.edu/math/faculty/nvoul/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Nikolaos K. Voulgarakis</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/author/nikolaos-k.-voulgarakis/</link>
-    </image>
-    
-    <item>
-      <title>Stochastic pursuit-evasion curves for foraging dynamics</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/bibtex/content/publication/toman-2022127324/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/bibtex/content/publication/toman-2022127324/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A hybrid fluctuating hydrodynamics and kinetic Monte Carlo method for modeling chemically-powered nanoscale motion</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/selmi-2017/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/selmi-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A stochastic reaction-diffusion model for protein aggregation on DNA</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1142-s-0129183117501029/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1142-s-0129183117501029/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The effect of thermal fluctuations on Holstein polaron dynamics in electric field</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/voulgarakis-201715/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/voulgarakis-201715/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Allostery through protein-induced DNA bubbles</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/traverso-2015/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/traverso-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling nanoscale hydrodynamics by smoothed dissipative particle dynamics</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4921222/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4921222/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic mesoscale model of dipolar fluids via fluctuating hydrodynamics</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4900498/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4900498/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linking hydrophobicity and hydrodynamics by the hybrid fluctuating hydrodynamics and molecular dynamics methodologies</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-e-88-023305/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-e-88-023305/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fluctuating hydrodynamics for multiscale modeling and simulation: Energy and heat transfer in molecular fluids</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4738763/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-4738763/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fluctuating hydrodynamics for multiscale simulation of inhomogeneous fluids: Mapping all-atom molecular dynamics to capillary waves</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3615719/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3615719/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling the viscoelasticity and thermal fluctuations of fluids at the nanoscale</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1080-08927022-2010-486832/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1080-08927022-2010-486832/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bridging fluctuating hydrodynamics and molecular dynamics simulations of fluids</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3106717/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3106717/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling the nanoscale viscoelasticity of fluids by bridging non-Markovian fluctuating hydrodynamics and molecular dynamics simulations</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3273210/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/doi-10-1063-1-3273210/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opening rates of DNA hairpins: Experiment and model</title>
-      <link>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-e-76-011909/</link>
-      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
-      <guid>http://www.math.wsu.edu/math/faculty/nvoul/publication/phys-rev-e-76-011909/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nikolaos K. Voulgarakis | Voulgarakis Research Group</title><link>https://nvoul.github.io/author/nikolaos-k.-voulgarakis/</link><atom:link href="https://nvoul.github.io/author/nikolaos-k.-voulgarakis/index.xml" rel="self" type="application/rss+xml"/><description>Nikolaos K. Voulgarakis</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://nvoul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Nikolaos K. Voulgarakis</title><link>https://nvoul.github.io/author/nikolaos-k.-voulgarakis/</link></image><item><title>Stochastically drifted Brownian motion for self-propelled particles</title><link>https://nvoul.github.io/publications/baral2024/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://nvoul.github.io/publications/baral2024/</guid><description>&lt;p>&lt;strong>Stochastically drifted Brownian motion for self-propelled particles&lt;/strong>. Dipesh Baral, Annie C. Lu, Alan R. Bishop, Kim Rasmussen, Nikolaos K. Voulgarakis &lt;em>Chaos, Solitons &amp;amp; Fractals&lt;/em> 2024
+&lt;a href="https://doi.org/10.1016/J.CHAOS.2024.115378" target="_blank" rel="noopener">doi:10.1016/J.CHAOS.2024.115378&lt;/a>&lt;/p>
+&lt;p>&lt;em>Abstract here (optional).&lt;/em>&lt;/p></description></item><item><title>Hierarchical Symmetry-Breaking Model for Stem Cell Differentiation</title><link>https://nvoul.github.io/publications/voulgarakis2024/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://nvoul.github.io/publications/voulgarakis2024/</guid><description>&lt;p>&lt;strong>Hierarchical Symmetry-Breaking Model for Stem Cell Differentiation&lt;/strong>. Nikolaos K. Voulgarakis &lt;em>Mathematics&lt;/em> 2024
+&lt;a href="https://doi.org/10.3390/MATH12091380/S1" target="_blank" rel="noopener">doi:10.3390/MATH12091380/S1&lt;/a> · [link](
+&lt;a href="https://www.mdpi.com/2227-7390/12/9/1380/htm" target="_blank" rel="noopener">https://www.mdpi.com/2227-7390/12/9/1380/htm&lt;/a>
+&lt;a href="https://www.mdpi.com/2227-7390/12/9/1380" target="_blank" rel="noopener">https://www.mdpi.com/2227-7390/12/9/1380&lt;/a>)&lt;/p>
+&lt;p>&lt;em>Abstract here (optional).&lt;/em>&lt;/p></description></item><item><title>Multilayered noise model for transport in complex environments</title><link>https://nvoul.github.io/publications/voulgarakis2023/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://nvoul.github.io/publications/voulgarakis2023/</guid><description>&lt;p>&lt;strong>Multilayered noise model for transport in complex environments&lt;/strong>. Nikolaos K. Voulgarakis &lt;em>Physical Review E&lt;/em> 2023
+&lt;a href="https://doi.org/10.1103/PHYSREVE.108.064105/FIGURES/3/THUMBNAIL" target="_blank" rel="noopener">doi:10.1103/PHYSREVE.108.064105/FIGURES/3/THUMBNAIL&lt;/a> ·
+&lt;a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064105" target="_blank" rel="noopener">link&lt;/a>&lt;/p>
+&lt;p>&lt;em>Abstract here (optional).&lt;/em>&lt;/p></description></item><item><title>Self-Regulated Symmetry Breaking Model for Stem Cell Differentiation</title><link>https://nvoul.github.io/publications/mcelroy2023/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://nvoul.github.io/publications/mcelroy2023/</guid><description>&lt;p>&lt;strong>Self-Regulated Symmetry Breaking Model for Stem Cell Differentiation&lt;/strong>. Madelynn McElroy, Kaylie Green, Nikolaos K. Voulgarakis &lt;em>Entropy&lt;/em> 2023
+&lt;a href="https://doi.org/10.3390/E25050815" target="_blank" rel="noopener">doi:10.3390/E25050815&lt;/a> · [link](
+&lt;a href="https://www.mdpi.com/1099-4300/25/5/815/htm" target="_blank" rel="noopener">https://www.mdpi.com/1099-4300/25/5/815/htm&lt;/a>
+&lt;a href="https://www.mdpi.com/1099-4300/25/5/815" target="_blank" rel="noopener">https://www.mdpi.com/1099-4300/25/5/815&lt;/a>)&lt;/p>
+&lt;p>&lt;em>Abstract here (optional).&lt;/em>&lt;/p></description></item><item><title>Stochastic pursuit-evasion curves for foraging dynamics</title><link>https://nvoul.github.io/publications/toman2022/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://nvoul.github.io/publications/toman2022/</guid><description>&lt;p>&lt;strong>Stochastic pursuit-evasion curves for foraging dynamics&lt;/strong>. Kellan Toman, Nikolaos K. Voulgarakis &lt;em>Physica A: Statistical Mechanics and its Applications&lt;/em> 2022
+&lt;a href="https://doi.org/10.1016/J.PHYSA.2022.127324" target="_blank" rel="noopener">doi:10.1016/J.PHYSA.2022.127324&lt;/a> ·
+&lt;a href="https://linkinghub.elsevier.com/retrieve/pii/S0378437122002618" target="_blank" rel="noopener">link&lt;/a>&lt;/p>
+&lt;p>&lt;em>Abstract here (optional).&lt;/em>&lt;/p></description></item></channel></rss>
